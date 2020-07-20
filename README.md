@@ -1,6 +1,8 @@
 # Generating faces with emojis and pulse
 
-Full set of generated images for the article [Generating faces from emojis with stylegan and pulse](https://mejuto.co/generating-faces-from-emojis-with-stylegan-and-pulse/ "Faces generated from emojis using machine learning")
+Full set of generated images for the article [Generating faces from emojis with stylegan and pulse](https://mejuto.co/generating-faces-from-emojis-with-stylegan-and-pulse/ "Faces generated from emojis using machine learning").
+
+Check the [article](https://mejuto.co/generating-faces-from-emojis-with-stylegan-and-pulse/) for commented results and more details.
 
 We tested image generation using emojis as an input — instead of the downscaled photos usually used — and evaluated the results.
 
