@@ -1,4 +1,4 @@
-# generating-faces-with-emoji
+# Generating faces with emojis and pulse
 
 Full set of generated images for the article [Generating faces from emojis with stylegan and pulse](https://mejuto.co/generating-faces-from-emojis-with-stylegan-and-pulse/ "Faces generated from emojis using machine learning")
 
