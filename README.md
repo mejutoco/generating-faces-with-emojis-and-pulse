@@ -9,6 +9,9 @@ Full-resolution image [here]()
 </figcaption>
 </figure>
 
+![image](big_image_resize_16px_resized)
+
+![image](./big_image_resize_16px_resized)
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
