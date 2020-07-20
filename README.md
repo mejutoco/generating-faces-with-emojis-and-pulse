@@ -3,15 +3,17 @@
 Full set of generated images for the article [Generating faces from emojis with stylegan and pulse](https://mejuto.co/generating-faces-from-emojis-with-stylegan-and-pulse/ "Faces generated from emojis using machine learning")
 
 <figure>
-![image](big_image_resize_16px_resized.jpg)
+![image](big_image_16px_resized.jpg)
 <figcaption>
-Full-resolution image [here]()
+Full-resolution image [here](big_image_16px.png)
 </figcaption>
 </figure>
 
-![image](big_image_resize_16px_resized.jpg)
+![image](big_image_16px_resized.jpg)
 
-![image](./big_image_resize_16px_resized.jpg)
+![image](./big_image_16px_resized.jpg)
+
+________________________
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
